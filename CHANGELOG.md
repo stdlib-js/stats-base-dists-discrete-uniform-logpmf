@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1903306`](https://github.com/stdlib-js/stdlib/commit/19033062ada0dacd6f3bb979748d97001aa29be7) - **style:** insert blank line _(by Athan Reines)_
 -   [`1d7a498`](https://github.com/stdlib-js/stdlib/commit/1d7a498fab055a69e2c7063ba80c0d59b55e4e07) - **feat:** add C implementation for `stats/base/dists/discrete-uniform/logpmf` [(#4663)](https://github.com/stdlib-js/stdlib/pull/4663) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 -   [`13c0b92`](https://github.com/stdlib-js/stdlib/commit/13c0b92efadf3a6d4c83322c32ebc4071950b403) - **bench:** refactor random number generation in `stats/base/dists/discrete-uniform` [(#4887)](https://github.com/stdlib-js/stdlib/pull/4887) _(by Karan Anand)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
