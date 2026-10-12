@@ -178,6 +178,8 @@ for ( i = 0; i < 25; i++ ) {
 
 <!-- C interface documentation. -->
 
+* * *
+
 <section class="c">
 
 ## C APIs
